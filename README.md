@@ -1,1 +1,1 @@
-![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=maykar&theme=dark&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykar&theme=dark&layout=compact)
+![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=maykar&theme=synthwave&hide_title=true&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykar&theme=synthwave&layout=compact&langs_count=4)
